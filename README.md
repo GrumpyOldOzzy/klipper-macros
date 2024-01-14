@@ -76,7 +76,7 @@ printers. However, there are also some nice extras:
   parameters passed to PRINT_START.
 * Look for similar issues and post troubleshooting questions in the [Github Q&A
   Discussion](
-  https://github.com/GrumpyOldOzzy/klipper-macros/discussions/categories/q-a).
+  https://github.com/jschuh/klipper-macros/discussions/categories/q-a).
 
 # Reporting Bugs
 
